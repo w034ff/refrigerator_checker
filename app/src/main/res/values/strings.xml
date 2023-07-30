@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">fridge_checker</string>
+    <string name="tab_text_1">fresh</string>
+    <string name="tab_text_2">process</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search food</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_put_get">Put in/Get out the fridge</string>
+    <string name="menu_today">What put in the fridge today</string>
+    <string name="menu_old">From the oldest in the fridge</string>
+    <string name="menu_recipe">Recommended dishes for you</string>
+    <string name="nav_open">Navigation Drawer Open</string>
+    <string name="nav_close">Navigation Drawer Close</string>
+</resources>
