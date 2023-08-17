@@ -1,0 +1,114 @@
+{
+  "food": {
+    "fresh": {
+      "apple": {
+        "date": "2023-7-31",
+        "name": "apple",
+        "value": "1"
+      },
+      "banana": {
+        "date": "2023-7-31",
+        "name": "banana",
+        "value": "4"
+      },
+      "cabbage": {
+        "date": "2023-7-28",
+        "name": "cabbage",
+        "value": "1"
+      },
+      "carrot": {
+        "date": "2023-7-14",
+        "name": "carrot",
+        "value": "3"
+      },
+      "chicken thigh": {
+        "date": "2023-7-28",
+        "name": "chicken_thigh",
+        "value": "300g"
+      },
+      "egg": {
+        "date": "2023-7-25",
+        "name": "egg",
+        "value": "7"
+      },
+      "green pepper": {
+        "date": "2023-7-28",
+        "name": "green_pepper",
+        "value": "5"
+      },
+      "onion": {
+        "date": "2023-7-22",
+        "name": "onion",
+        "value": "4"
+      },
+      "pork belly": {
+        "date": "2023-7-31",
+        "name": "pork_belly",
+        "value": "350g"
+      },
+      "saury": {
+        "date": "2023-7-28",
+        "name": "saury",
+        "value": "3"
+      },
+      "tomato": {
+        "date": "2023-7-28",
+        "name": "tomato",
+        "value": "4"
+      }
+    },
+    "process": {
+      "beer": {
+        "date": "2023-7-28",
+        "name": "beer",
+        "value": "4"
+      },
+      "butter": {
+        "date": "2023-7-23",
+        "name": "butter",
+        "value": "1"
+      },
+      "cheese": {
+        "date": "2023-7-28",
+        "name": "cheese",
+        "value": "3"
+      },
+      "dressing": {
+        "date": "2023-7-18",
+        "name": "dressing",
+        "value": "1"
+      },
+      "gyoza(freezed)": {
+        "date": "2023-7-11",
+        "name": "freezed_gyoza",
+        "value": "3"
+      },
+      "milk": {
+        "date": "2023-7-25",
+        "name": "milk",
+        "value": "1"
+      },
+      "miso": {
+        "date": "2023-7-25",
+        "name": "miso",
+        "value": "1"
+      },
+      "soy sauce": {
+        "date": "2022-9-7",
+        "name": "soy_sauce",
+        "value": "1"
+      },
+      "spaghetti(freezed)": {
+        "date": "2022-11-3",
+        "name": "freezed_spaghetti",
+        "value": "5"
+      },
+      "udon": {
+        "date": "2023-7-28",
+        "name": "udon",
+        "value": "3"
+      }
+    }
+  },
+  "situation": "get_out"
+}
