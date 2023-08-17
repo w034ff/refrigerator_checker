@@ -26,7 +26,7 @@
 ## 基本機能
 
 ### 機能のリスト（上から1、2、3、4、5の順）
-<img src="images/content_list.png" alt="Home" height="450" />
+<img src="images/content_list.png" alt="List" height="450" />
 
 ## 1. 生鮮食品と加工食品でタブ分けし、少ないスクロールで飲食物を確認しやすくした機能
 
@@ -40,22 +40,28 @@ FRESHとPROCESS、二つのタブを用いて飲食物を分割しました。�
 献立を考えてくれる機能となっており、食のジャンルは和食、洋食、中華、韓国の4種類あります。食べたいジャンルを選択すると献立が表示され、冷蔵庫に足りない食品に関しては赤くハイライトされます。未完成な部分は、レシピの表示、献立の種類、献立の推薦システム等です。
 
 ### デモ
-<p float="left">
-  <img src="images/need_ingredient.png" alt="Home" height="450" />
-  <img src="images/demo.gif" alt="Home" height="450" style="margin-left:100px;" />
-</p>
+<table border="0">
+<tr>
+<td>
+  <img src="images/need_ingredient.png" alt="ingredient" height="450" />
+</td>
+<td>
+  <img src="images/demo.gif" alt="demo" height="450" " />
+</td>
+</tr>
+</table>
 
 ## 3. "今日"、スーパー等で購入した飲食物を表示する機能
 
 "今日"、スーパー等で購入した飲食物を表示する機能となっており、同居人で同じものを複数買ってしまうことを防ぐ目的で実装しました。
 
-<img src="images/what_put_in_today.png" alt="Home" height="450" />
+<img src="images/what_put_in_today.png" alt="today" height="450" />
 
 ## 4. 冷蔵庫に入っている飲食物を古いもの順にソートする機能
 
 冷蔵庫に入っている飲食物を古いもの順にソートする機能となっており、古い食品を腐らせず使用することを目的として実装しました。
 
-<img src="images/oldest.png" alt="Home" height="450" />
+<img src="images/oldest.png" alt="sort_oldest" height="450" />
 
 ## 5. 冷蔵庫への出し入れをカメラで管理する機能（未完成）
 
