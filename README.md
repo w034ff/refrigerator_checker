@@ -25,7 +25,7 @@
 
 ## 基本機能
 
-### 機能のリスト（上から1.、2.、3.、4.、5.の順）
+### 機能のリスト（上から1、2、3、4、5の順）
 <img src="images/content_list.png" alt="Home" height="450" />
 
 ## 1. 生鮮食品と加工食品でタブ分けし、少ないスクロールで飲食物を確認しやすくした機能
@@ -41,8 +41,9 @@ FRESHとPROCESS、二つのタブを用いて飲食物を分割しました。�
 
 ### デモ
 <p>
-<img src="images/demo.gif" alt="Home" height="450" style="margin-right: 100px;"/>
-<img src="images/need_ingredient.png" alt="Home" height="450" />
+<img src="images/need_ingredient.png" alt="Home" height="450" /> 
+
+<img src="images/demo.gif" alt="Home" height="450" />
 </p>
 
 ## 3. "今日"、スーパー等で購入した飲食物を表示する機能
