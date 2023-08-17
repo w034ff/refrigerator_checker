@@ -25,7 +25,7 @@
 
 ## 基本機能
 
-### 機能のリスト（上から1. 2. 3. 4. 5. の順）
+### 機能のリスト（上から1.、2.、3.、4.、5.の順）
 <img src="images/content_list.png" alt="Home" height="450" />
 
 ## 1. 生鮮食品と加工食品でタブ分けし、少ないスクロールで飲食物を確認しやすくした機能
@@ -40,7 +40,10 @@ FRESHとPROCESS、二つのタブを用いて飲食物を分割しました。�
 献立を考えてくれる機能となっており、食のジャンルは和食、洋食、中華、韓国の4種類あります。食べたいジャンルを選択すると献立が表示され、冷蔵庫に足りない食品に関しては赤くハイライトされます。未完成な部分は、レシピの表示、献立の種類、献立の推薦システム等です。
 
 ### デモ
-<img src="images/demo.gif" alt="Home" height="450" style="margin-right: 100px;"/><img src="images/need_ingredient.png" alt="Home" height="450" />
+<p>
+<img src="images/demo.gif" alt="Home" height="450" style="margin-right: 100px;"/>
+<img src="images/need_ingredient.png" alt="Home" height="450" />
+</p>
 
 ## 3. "今日"、スーパー等で購入した飲食物を表示する機能
 
