@@ -1,1 +1,1 @@
-## demo
+## README用のimage&gifフォルダ
